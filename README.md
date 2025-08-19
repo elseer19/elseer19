@@ -9,7 +9,6 @@
 ***
  ## Onde me encontrar?  
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/elias-simplicio-2202b9123)  
- [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/elias.simplicio.9)  
  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/eliassimplicio123/)
 ***
 ### Habilidades
