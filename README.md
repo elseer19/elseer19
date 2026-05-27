@@ -1,6 +1,6 @@
 # Elias Simplicio 
  🏙️ Fortaleza   
- 🎉 25 anos  
+ 🎉 28 anos  
  🏳️‍🌈 LGBT  
  📚 Ciência da Computação   
  🎓 Faculdade Descomplica  
